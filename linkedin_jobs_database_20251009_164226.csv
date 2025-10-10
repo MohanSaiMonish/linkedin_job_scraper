@@ -1,0 +1,4 @@
+id,job_title,company,location,post_date,link,search_keywords,search_location,scraped_at
+1,Data Analyst,Tech Solutions Inc,"New York, NY",2023-10-15,https://linkedin.com/jobs/view/12345,Data Analyst,New York City Metro Area,2025-10-09 11:12:26
+2,Senior Data Analyst,Finance Corp,"Boston, MA",2023-10-14,https://linkedin.com/jobs/view/12346,Data Analyst,New York City Metro Area,2025-10-09 11:12:26
+3,Data Scientist,Tech Solutions Inc,"San Francisco, CA",2023-10-13,https://linkedin.com/jobs/view/12347,Data Analyst,New York City Metro Area,2025-10-09 11:12:26

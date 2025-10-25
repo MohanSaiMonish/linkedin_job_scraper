@@ -1,0 +1,42 @@
+
+        ADVANCED JOB MARKET ANALYSIS REPORT
+        =====================================
+        
+        Market Overview:
+        - Total Jobs Analyzed: 10
+        - Unique Companies: 10
+        - Unique Locations: 5
+        
+        Salary Insights:
+        - Average Salary: $119,277
+        - Salary Range: $88,575 - $165,410
+        - Highest Paying: $165,410
+        
+        Market Leaders:
+        - Top Company: Google
+        - Top Location: San Francisco, CA
+        
+        Top 5 Companies by Job Count:
+        Company
+Google     1
+Meta       1
+Apple      1
+Netflix    1
+Tesla      1
+        
+        Top 5 Locations:
+        Location
+San Francisco, CA    6
+Cupertino, CA        1
+Los Gatos, CA        1
+Palo Alto, CA        1
+Sunnyvale, CA        1
+        
+        Top 5 Job Titles:
+        Job Title
+Senior Software Engineer     1
+Full Stack Developer         1
+Data Scientist               1
+Product Manager              1
+Machine Learning Engineer    1
+        

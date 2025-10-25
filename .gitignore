@@ -20,6 +20,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+<<<<<<< HEAD
 
 # Virtual Environment
 .venv/
@@ -27,6 +28,16 @@ venv/
 ENV/
 env/
 .env
+=======
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+>>>>>>> 2f589ebf6dd36d4378b88c94f94d7451ea0359a1
 
 # IDE
 .vscode/
@@ -34,6 +45,7 @@ env/
 *.swp
 *.swo
 *~
+<<<<<<< HEAD
 
 # OS
 .DS_Store
@@ -55,3 +67,30 @@ geckodriver
 # Generated reports (optional - uncomment if you don't want to track reports)
 # *.pdf
 # *.png
+=======
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+.env.local
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Output files (keep test/demo data in repo)
+# linkedin_jobs.csv
+# *.png
+
+# Logs
+*.log
+>>>>>>> 2f589ebf6dd36d4378b88c94f94d7451ea0359a1
